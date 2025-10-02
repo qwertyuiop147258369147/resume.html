@@ -23,7 +23,7 @@ body{padding:0}
 <body>
 <div class="container">
 <aside class="card">
-<img class="profile-photo" src="LINE_ALBUM_1140310 第五組_250415_1.jpg" alt="個人照片">
+<img class="profile-photo" src="images/profile.jpg" alt="個人照片">
 <div class="name">吳秉澤</div>
 
 
